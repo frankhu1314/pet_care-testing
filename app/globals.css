@@ -139,6 +139,15 @@
         box-shadow: 0 12px 28px rgba(242, 111, 94, 0.24);
       }
 
+      .button-book-now {
+        color: #000000;
+        font-weight: 400;
+      }
+
+      .button-book-now .icon {
+        color: #2f7f6d;
+      }
+
       .hero {
         position: relative;
         display: grid;
